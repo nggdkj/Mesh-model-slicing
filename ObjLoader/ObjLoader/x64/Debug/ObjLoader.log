@@ -1,0 +1,5 @@
+﻿  ObjLoader.cpp
+D:\NGGDKJ\大三下\计算机辅助智能制造\期末项目\ObjLoader\ObjLoader\ObjLoader.cpp(41,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\NGGDKJ\大三下\计算机辅助智能制造\期末项目\ObjLoader\ObjLoader\ObjLoader.cpp(72,17): warning C4244: “初始化”: 从“double”转换到“GLint”，可能丢失数据
+D:\NGGDKJ\大三下\计算机辅助智能制造\期末项目\ObjLoader\ObjLoader\ObjLoader.cpp(121,13): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  ObjLoader.vcxproj -> D:\NGGDKJ\大三下\计算机辅助智能制造\期末项目\ObjLoader\x64\Debug\ObjLoader.exe
